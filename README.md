@@ -1,4 +1,4 @@
-# memcache_comment
+# 对memcached源码进行了注释
 
 memcached_1.4.5         里面存放的是memcache 1.4.5的原始代码
 memcached_1.4.5_comment 里面存放的是memcache 1.4.5加上注释后的代码
